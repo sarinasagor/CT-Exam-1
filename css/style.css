@@ -360,6 +360,7 @@ Project Section
 	margin: 15px;
 	padding: 0;
 	width: 30.70%;
+	overflow: hidden;
 }
 @media only screen and (max-width: 1024px) {
   .col-md-3.single-projects {
